@@ -26,7 +26,7 @@ In addition, looking at the frequency of trips in both datasets by week-days and
 I was also interested in exploring the correlation between the distance covered and duration, however, upon exploration I found that there was a very weak relationship between the Distance covered and Duration of bike trips. The bike type seem to be a factor that influences the bike trips, we could see some type of relationships between Number of bike trips and bike types. Most of the trips are taken in Baywheels bike share system use the electric bike type while the classic bikes are the most used fo Divvy bike share system. This suggests that there are features of these bike types that may influence bike trips.
 
 
-## Key Insights for Presentation
+## Key Insights for Presentation Slides
 
 In the Presentation, I focused on comparing the two datasets based on a few variables. This is to establish the similarities and differences between bike trips in the Divvy Biskeshare system of Chicago and Baywheels Bikeshare system of San Francisco Bay Area. I start by introducing the two datasets comparing the number of bike trips taken in the year 2021.
 Following this, I introduce the duration and distance variables comparing their distributions for both bikeshare systems. I then use multiple barcharts to introduce some of the other variables such as weekdays, hours and bike type. The aim was to show if both bikeshare systems share any similarities or differences across these variables. Finally, I use a scatter plot to determine if there is a relationship or correlation between the distance in km and duration in seconds for both bike share systems.
